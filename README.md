@@ -17,12 +17,18 @@ This is a command-line health chatbot built using OpenAI's GPT-3.5 model. It saf
 ## 📁 Project Structure
 
 health_chatbot/
-├── main.py # Launch the chatbot
-├── config.py # Contains API request logic
-├── .env # Stores API key (not pushed to GitHub)
-├── .gitignore # Ignores venv, .env, cache, pyc files
-├── requirements.txt # Required packages (auto-install)
-└── venv/ # Virtual environment (ignored)
+
+├── main.py  Launch the chatbot
+
+├── config.py  Contains API request logic
+
+├── .env  Stores API key (not pushed to GitHub)
+
+├── .gitignore  Ignores venv, .env, cache, pyc files
+
+├── requirements.txt  Required packages (auto-install)
+
+└── venv/  Virtual environment (ignored)
 
 ---
 
